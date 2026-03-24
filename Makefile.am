@@ -1,7 +1,7 @@
 NULL =
 
 SAFE_VERSION	= @XMLSEC_VERSION_SAFE@
-SUBDIRS 	    = include src
+SUBDIRS 	    = include src examples
 if XMLSEC_APPS
 SUBDIRS += apps
 endif
