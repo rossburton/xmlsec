@@ -2834,6 +2834,7 @@ fi
 AC_CONFIG_FILES([
 include/xmlsec/version.h
 Makefile
+examples/Makefile
 include/Makefile
 include/xmlsec/Makefile
 src/Makefile
