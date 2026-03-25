@@ -2846,6 +2846,7 @@ xmlsec1-openssl.pc:xmlsec-openssl.pc.in
 xmlsec1-gnutls.pc:xmlsec-gnutls.pc.in
 xmlsec1-nss.pc:xmlsec-nss.pc.in
 xmlsec1-gcrypt.pc:xmlsec-gcrypt.pc.in
+xmlsec1-uninstalled.pc:xmlsec-uninstalled.pc.in
 xmlsec1.spec:xmlsec.spec.in
 ])
 AC_CONFIG_FILES([xmlsec1Conf.sh:xmlsecConf.sh.in], [chmod +x xmlsec1Conf.sh])
